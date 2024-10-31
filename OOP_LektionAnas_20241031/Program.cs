@@ -43,7 +43,6 @@
             Console.WriteLine($"ID: {_id}\n Name: {_name}");
         }
 
-        ~Student
     }
 
 
